@@ -1,4 +1,6 @@
-# Which boardgame to play? by Henrique Figueira
+# Which board game to play? by Henrique Figueira
+
+Heads up! This was my first-ever Python project, so go easy on me.
 
 ## DataCamp project - Proposed idea:
 
